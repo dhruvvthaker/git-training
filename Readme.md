@@ -1,6 +1,9 @@
 """
 git training
 
+Website:
+![image](https://github.com/user-attachments/assets/e53a8da6-31eb-48d4-902a-d0593ff02d02)
+
 trello board:
 https://trello.com/b/G1ejVgKG/team-website-creation
 
